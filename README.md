@@ -1,6 +1,6 @@
 # Digital Clock
 
-This is a simple digital clock web app created using HTML, CSS, and JavaScript.
+This is a simple digital clock web app created using JavaScript, HTML, CSS and Bootstrap.
 
 ## Features
 
@@ -13,3 +13,7 @@ This is a simple digital clock web app created using HTML, CSS, and JavaScript.
 1. Clone the repository or download the ZIP file.
 2. Open the `index.html` file in your web browser.
 3. The clock should automatically start ticking and displaying the current time.
+
+## Acknowledgements
+
+This application was built as a part of the JavaScript course on CodeWithHarry Youtube Channel.
